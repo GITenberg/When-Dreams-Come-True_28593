@@ -1,0 +1,32 @@
+_repo: When-Dreams-Come-True_28593
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Berger, William Merritt
+    alias: Berger, W. M. (William Merritt)
+    birthdate: 1872
+    gutenberg_agent_id: '33437'
+    url: http://www.gutenberg.org/2009/agents/33437
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Ritter
+    gutenberg_agent_id: '33436'
+    url: http://www.gutenberg.org/2009/agents/33436
+description: An Aztec messiah comes to save the fallen race.
+gutenberg_issued: '2009-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28593'
+  lccn: '12024629'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- Fiction'
+- !lcc 'PS'
+title: When Dreams Come True
+url: http://www.gutenberg.org/ebooks/28593
