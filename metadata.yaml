@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '33436'
     url: http://www.gutenberg.org/2009/agents/33436
 description: An Aztec messiah comes to save the fallen race.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28593#When-Dreams-Come-True
 gutenberg_issued: '2009-04-23'
 gutenberg_type: Text
 identifiers:
